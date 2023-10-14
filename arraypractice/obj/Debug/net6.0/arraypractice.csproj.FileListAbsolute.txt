@@ -1,0 +1,14 @@
+C:\Users\nihad\source\repos\arraypractice\arraypractice\bin\Debug\net6.0\arraypractice.exe
+C:\Users\nihad\source\repos\arraypractice\arraypractice\bin\Debug\net6.0\arraypractice.deps.json
+C:\Users\nihad\source\repos\arraypractice\arraypractice\bin\Debug\net6.0\arraypractice.runtimeconfig.json
+C:\Users\nihad\source\repos\arraypractice\arraypractice\bin\Debug\net6.0\arraypractice.dll
+C:\Users\nihad\source\repos\arraypractice\arraypractice\bin\Debug\net6.0\arraypractice.pdb
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\arraypractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\arraypractice.AssemblyInfoInputs.cache
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\arraypractice.AssemblyInfo.cs
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\arraypractice.csproj.CoreCompileInputs.cache
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\arraypractice.dll
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\refint\arraypractice.dll
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\arraypractice.pdb
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\arraypractice.genruntimeconfig.cache
+C:\Users\nihad\source\repos\arraypractice\arraypractice\obj\Debug\net6.0\ref\arraypractice.dll
